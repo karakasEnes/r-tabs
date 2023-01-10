@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-tabs/static/css/main.cf38550b.css",
+    "main.js": "/r-tabs/static/js/main.de1657c6.js",
+    "index.html": "/r-tabs/index.html",
+    "main.cf38550b.css.map": "/r-tabs/static/css/main.cf38550b.css.map",
+    "main.de1657c6.js.map": "/r-tabs/static/js/main.de1657c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf38550b.css",
+    "static/js/main.de1657c6.js"
+  ]
+}
